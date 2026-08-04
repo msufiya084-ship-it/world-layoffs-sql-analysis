@@ -1,7 +1,7 @@
 # World Layoffs: Data Cleaning and EDA in SQL
 
 ## Project Overview
-This project focuses on cleaning and analyzing a global dataset of company layoffs (2020–2023) using MySQL. 
+This project focuses on cleaning and analyzing a global dataset of company layoffs (2020–2023) using MySQL.
 
 The main goals were to take a raw dataset with inconsistent formatting, duplicate entries, and missing fields, clean it up systematically, and run exploratory queries to identify key trends across industries, locations, and time periods.
 
@@ -14,4 +14,3 @@ The main goals were to take a raw dataset with inconsistent formatting, duplicat
 
 ## Repository Contents
 * `world_layoffs_project.sql` - Full SQL script containing both data cleaning steps and exploratory analytical queries.
-
